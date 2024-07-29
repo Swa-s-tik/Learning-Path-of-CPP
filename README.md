@@ -88,4 +88,66 @@
 # namespace - container that group classes fns and variables under unique names to avoid conflict
 # Template - blueprint for creating generic class or fn
 # preprocessor - directives, gives instructions to compiler to preprocess info before compilation
+OOPs concepts        - abstraction, inheritance, polymorphism, encapsulation 
 
+# Classes                      - classes, objects, functions, types 
+
+# Structures                - group of several data types 
+
+# Constructor             - initializes data members of objects of its class 
+
+#                                      (same name as class, does not return any value) 
+
+# Destructor               - releases memory space by destroying object 
+
+#                                      (~ same name, does not need argument or returns value) 
+
+# Pointers                   - pointer stores address 
+
+# Smart Pointer          -   
+
+ 
+
+# Inheritance              - inheritance gives attributes of parent class to child class    
+
+# Virtual Functions     - declared by base, defined by derived 
+
+# Fn overloading        - functions with same name but different parameters 
+
+# op overloading       - compile time polymorphism 
+
+# Interface                  - describes behavior of a class without implementing it 
+
+ 
+
+# Containers  	        - vector. list, map, set, stack 
+
+# Algorithms  	        - sort, find, Bin search 
+
+# Iterators      	        - forward, bidirectional, random 
+
+# functors      	        - customizes behavior of algo thru function 
+
+# Adapters                  - modify behavior of other components of STL. 
+
+ 
+
+# vector   	       - dynamic arrays, contiguous 
+
+# list         	       - non-contiguous, slower traversal, faster modding 
+
+# map       	       - key value and a mapped value 
+
+# set         	       - each element is unique 
+
+# iterator  	       - points to memory addresses 
+
+# functor            	       - function object, function wrapped in class to be called as object 
+
+# Adapter  	       - specialized interface on top of sequential containers 
+
+
+ 
+# Strings		       -  
+
+# COM model – COM object, ATL, DLL, Smart Pointers
